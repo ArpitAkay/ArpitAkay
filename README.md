@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
-<h3 align="center">I’m a backend developer specializing in Java and SpringBoot. Additionally, I’m exploring full stack development with a growing focus on ReactJS for frontend expertise. I excel in building REST and GraphQL APIs</h3>
+<h3 align="center">I’m a backend developer specializing in Java and SpringBoot. I excel in building REST and GraphQL APIs. Additionally, I’m exploring full stack development with a growing focus on ReactJS for frontend expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitakay&label=Profile%20views&color=0e75b6&style=flat" alt="arpitakay" /> </p>
 
@@ -24,6 +24,7 @@
 <a href="https://twitter.com/arpit_noob31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_noob31" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arpit-kumar-5a26201b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-kumar-5a26201b4" height="30" width="40" /></a>
 <a href="https://fb.com/arpitkumar4000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpitkumar4000" height="30" width="40" /></a>
+<a href="https://instagram.com/arpit_noob31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpit_noob31" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arpitkumar4000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpitkumar4000" height="30" width="40" /></a>
 </p>
 
