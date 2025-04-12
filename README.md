@@ -7,7 +7,7 @@ deliver complete and easy-to-use applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitakay" alt="arpitakay" /></a> </p>
 
-- 💬 Ask me about **Java, Springboot, ReactJS, NextJs, Asterisk**
+- 💬 Ask me about **Java, Springboot, NodeJS, ReactJS, NextJs, Asterisk**
 
 - 📫 How to reach me **dev.arpitkumar@gmail.com**
 
